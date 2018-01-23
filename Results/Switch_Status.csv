@@ -1,0 +1,4 @@
+Switch,Switch IP,Server,Software Version,Model,Switch Status,PSU1 Status,PSU2 Status,FAN Status,Max Power Budget,Slot 1 Status,Slot 2 Status,Slot 3 Status,Active Controller,Blade 1.01 Status,Blade 1.01 Temp,Blade 1.01 Conn Filter,Blade 1.02 Status,Blade 1.02 Temp,Blade 1.02 Conn Filter,Blade 1.03 Status,Blade 1.03 Temp,Blade 1.03 Conn Filter
+Sunny Lab Switch,146.13.191.48,148.132.160.30,03.06.004.012,3903,Active,GOOD,GOOD,GOOD,760 W, PRESENT, PRESENT, NOT PRESENT,1,GOOD,34 C, 90%,GOOD,34 C, 80%
+Blues,146.13.191.60,148.132.160.30,03.06.004.012,3903,Active,GOOD,GOOD,GOOD,680 W, PRESENT, PRESENT, NOT PRESENT,1,GOOD,32 C, 80%,GOOD,30 C, 80%
+Switch3901-R,146.13.191.131,148.132.160.30,03.06.004.012,3901R,Active,GOOD,GOOD,GOOD,400 W, PRESENT,1,GOOD,34 C, 90%
